@@ -10,7 +10,7 @@ English version will be added later.
 
 ## Acknowledgements
 
-I would like to thank [Mervan Özekinci](https://github.com/MervanOzekinci) for providing us with the opportunity for this mini bootcamp training.
+I would like to thank [Mervan Özekinci](https://github.com/MervanOzekinci) for providing us with the opportunity for this Mini Bootcamp training.
 
 ## License
 
